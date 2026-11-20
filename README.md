@@ -65,4 +65,3 @@ Never commit a real key — see `.env.example` for local `vercel dev` testing.
 ## License
 
 MIT — built as a learning/portfolio project.
-
